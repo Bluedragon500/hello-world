@@ -1,3 +1,4 @@
 *.log
 node_modules/
 #Program links to the hello-world program.
+The program is simple it might be improved to perform more interesting functions.
