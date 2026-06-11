@@ -1,2 +1,4 @@
 # hello-world
-A simple program
+First Repository on GitHub
+I am new to programming using the GitHub platform so using Github is a new learning experience and tool which helps in the developing process for the programming of Python Code and other languages.
+
